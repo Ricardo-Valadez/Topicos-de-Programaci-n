@@ -1,0 +1,7 @@
+C:\Users\hacker\Desktop\Semestre 4\Programacion\AbecedarioHilos\AbecedarioHilos\obj\Debug\AbecedarioHilos.csprojAssemblyReference.cache
+C:\Users\hacker\Desktop\Semestre 4\Programacion\AbecedarioHilos\AbecedarioHilos\obj\Debug\AbecedarioHilos.csproj.CoreCompileInputs.cache
+C:\Users\hacker\Desktop\Semestre 4\Programacion\AbecedarioHilos\AbecedarioHilos\bin\Debug\AbecedarioHilos.exe.config
+C:\Users\hacker\Desktop\Semestre 4\Programacion\AbecedarioHilos\AbecedarioHilos\bin\Debug\AbecedarioHilos.exe
+C:\Users\hacker\Desktop\Semestre 4\Programacion\AbecedarioHilos\AbecedarioHilos\bin\Debug\AbecedarioHilos.pdb
+C:\Users\hacker\Desktop\Semestre 4\Programacion\AbecedarioHilos\AbecedarioHilos\obj\Debug\AbecedarioHilos.exe
+C:\Users\hacker\Desktop\Semestre 4\Programacion\AbecedarioHilos\AbecedarioHilos\obj\Debug\AbecedarioHilos.pdb
