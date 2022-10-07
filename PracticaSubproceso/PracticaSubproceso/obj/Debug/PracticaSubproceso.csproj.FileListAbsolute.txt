@@ -1,0 +1,10 @@
+C:\Users\hacker\Desktop\Semestre 4\Programacion\PracticaSubproceso\PracticaSubproceso\bin\Debug\PracticaSubproceso.exe.config
+C:\Users\hacker\Desktop\Semestre 4\Programacion\PracticaSubproceso\PracticaSubproceso\bin\Debug\PracticaSubproceso.exe
+C:\Users\hacker\Desktop\Semestre 4\Programacion\PracticaSubproceso\PracticaSubproceso\bin\Debug\PracticaSubproceso.pdb
+C:\Users\hacker\Desktop\Semestre 4\Programacion\PracticaSubproceso\PracticaSubproceso\obj\Debug\PracticaSubproceso.csprojAssemblyReference.cache
+C:\Users\hacker\Desktop\Semestre 4\Programacion\PracticaSubproceso\PracticaSubproceso\obj\Debug\PracticaSubproceso.Properties.Resources.resources
+C:\Users\hacker\Desktop\Semestre 4\Programacion\PracticaSubproceso\PracticaSubproceso\obj\Debug\PracticaSubproceso.csproj.GenerateResource.cache
+C:\Users\hacker\Desktop\Semestre 4\Programacion\PracticaSubproceso\PracticaSubproceso\obj\Debug\PracticaSubproceso.csproj.CoreCompileInputs.cache
+C:\Users\hacker\Desktop\Semestre 4\Programacion\PracticaSubproceso\PracticaSubproceso\obj\Debug\PracticaSubproceso.exe
+C:\Users\hacker\Desktop\Semestre 4\Programacion\PracticaSubproceso\PracticaSubproceso\obj\Debug\PracticaSubproceso.pdb
+C:\Users\hacker\Desktop\Semestre 4\Programacion\PracticaSubproceso\PracticaSubproceso\obj\Debug\PracticaSubproceso.TrabajoHilos.resources
