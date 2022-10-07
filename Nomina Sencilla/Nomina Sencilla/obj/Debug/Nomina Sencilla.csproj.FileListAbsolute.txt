@@ -1,0 +1,25 @@
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Nomina Sencilla.exe.config
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Nomina Sencilla.exe
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Nomina Sencilla.pdb
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\obj\Debug\Nomina Sencilla.csprojAssemblyReference.cache
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\obj\Debug\Nomina Sencilla.exe.config
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\obj\Debug\Nomina_Sencilla.Form1.resources
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\obj\Debug\Nomina_Sencilla.Properties.Resources.resources
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\obj\Debug\Nomina Sencilla.csproj.GenerateResource.cache
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\obj\Debug\Nomina Sencilla.exe.licenses
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\obj\Debug\Nomina Sencilla.csproj.CoreCompileInputs.cache
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\obj\Debug\Nomina Sencilla.csproj.CopyComplete
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\obj\Debug\Nomina Sencilla.exe
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\obj\Debug\Nomina Sencilla.pdb
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\hacker\Desktop\Semestre 4\Programacion\Nomina Sencilla\Nomina Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
