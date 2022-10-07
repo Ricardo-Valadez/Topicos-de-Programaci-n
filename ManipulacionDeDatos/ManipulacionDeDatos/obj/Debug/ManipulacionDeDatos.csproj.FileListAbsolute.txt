@@ -1,0 +1,10 @@
+C:\Users\Richi\Desktop\ManipulacionDeDatos\ManipulacionDeDatos\bin\Debug\ManipulacionDeDatos.exe.config
+C:\Users\Richi\Desktop\ManipulacionDeDatos\ManipulacionDeDatos\bin\Debug\ManipulacionDeDatos.exe
+C:\Users\Richi\Desktop\ManipulacionDeDatos\ManipulacionDeDatos\bin\Debug\ManipulacionDeDatos.pdb
+C:\Users\Richi\Desktop\ManipulacionDeDatos\ManipulacionDeDatos\obj\Debug\ManipulacionDeDatos.csprojAssemblyReference.cache
+C:\Users\Richi\Desktop\ManipulacionDeDatos\ManipulacionDeDatos\obj\Debug\ManipulacionDeDatos.Properties.Resources.resources
+C:\Users\Richi\Desktop\ManipulacionDeDatos\ManipulacionDeDatos\obj\Debug\ManipulacionDeDatos.csproj.GenerateResource.cache
+C:\Users\Richi\Desktop\ManipulacionDeDatos\ManipulacionDeDatos\obj\Debug\ManipulacionDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Richi\Desktop\ManipulacionDeDatos\ManipulacionDeDatos\obj\Debug\ManipulacionDeDatos.exe
+C:\Users\Richi\Desktop\ManipulacionDeDatos\ManipulacionDeDatos\obj\Debug\ManipulacionDeDatos.pdb
+C:\Users\Richi\Desktop\ManipulacionDeDatos\ManipulacionDeDatos\obj\Debug\ManipulacionDeDatos.InventariosBaseDeDatos.resources
