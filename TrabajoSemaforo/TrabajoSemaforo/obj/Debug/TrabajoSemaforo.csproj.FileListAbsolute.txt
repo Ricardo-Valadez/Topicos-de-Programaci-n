@@ -1,0 +1,10 @@
+C:\Users\hacker\Desktop\Semestre 4\Programacion\TrabajoSemaforo\TrabajoSemaforo\bin\Debug\TrabajoSemaforo.exe.config
+C:\Users\hacker\Desktop\Semestre 4\Programacion\TrabajoSemaforo\TrabajoSemaforo\bin\Debug\TrabajoSemaforo.exe
+C:\Users\hacker\Desktop\Semestre 4\Programacion\TrabajoSemaforo\TrabajoSemaforo\bin\Debug\TrabajoSemaforo.pdb
+C:\Users\hacker\Desktop\Semestre 4\Programacion\TrabajoSemaforo\TrabajoSemaforo\obj\Debug\TrabajoSemaforo.csprojAssemblyReference.cache
+C:\Users\hacker\Desktop\Semestre 4\Programacion\TrabajoSemaforo\TrabajoSemaforo\obj\Debug\TrabajoSemaforo.Semaforo.resources
+C:\Users\hacker\Desktop\Semestre 4\Programacion\TrabajoSemaforo\TrabajoSemaforo\obj\Debug\TrabajoSemaforo.Properties.Resources.resources
+C:\Users\hacker\Desktop\Semestre 4\Programacion\TrabajoSemaforo\TrabajoSemaforo\obj\Debug\TrabajoSemaforo.csproj.GenerateResource.cache
+C:\Users\hacker\Desktop\Semestre 4\Programacion\TrabajoSemaforo\TrabajoSemaforo\obj\Debug\TrabajoSemaforo.csproj.CoreCompileInputs.cache
+C:\Users\hacker\Desktop\Semestre 4\Programacion\TrabajoSemaforo\TrabajoSemaforo\obj\Debug\TrabajoSemaforo.exe
+C:\Users\hacker\Desktop\Semestre 4\Programacion\TrabajoSemaforo\TrabajoSemaforo\obj\Debug\TrabajoSemaforo.pdb
