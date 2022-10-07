@@ -1,0 +1,22 @@
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\bin\Debug\Calc Sencilla.exe.config
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\bin\Debug\Calc Sencilla.exe
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\bin\Debug\Calc Sencilla.pdb
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\bin\Debug\Bunifu.Licensing.dll
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\obj\Debug\Calc Sencilla.csprojAssemblyReference.cache
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\obj\Debug\Calc Sencilla.exe.config
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\obj\Debug\Calc_Sencilla.Form1.resources
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\obj\Debug\Calc_Sencilla.Properties.Resources.resources
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\obj\Debug\Calc Sencilla.csproj.GenerateResource.cache
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\obj\Debug\Calc Sencilla.exe.licenses
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\obj\Debug\Calc Sencilla.csproj.CoreCompileInputs.cache
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\obj\Debug\Calc Sencilla.csproj.CopyComplete
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\obj\Debug\Calc Sencilla.exe
+C:\Users\hacker\Desktop\Calc Sencilla\Calc Sencilla\obj\Debug\Calc Sencilla.pdb
